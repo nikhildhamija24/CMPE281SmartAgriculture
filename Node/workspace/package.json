@@ -1,0 +1,21 @@
+{
+  "name": "cloudsensorproject",
+  "version": "1.0.0",
+  "private": true,
+  "description": "cloudcomputingproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhil_dhamija <nikhil.dhamija@sjsu.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "client-sessions": "^0.7.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "formidable": "^1.0.17",
+    "mongodb": "^2.1.17"
+  }
+}
